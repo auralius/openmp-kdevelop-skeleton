@@ -1,0 +1,41 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x000\x00o\x00p\x00e\x00n\x00m\x00p\x00-\x00k\x00d\x00e\x00v\x00e\x00l\x00o\x00p\x00-\x00s\x00k\x00e\x00l\x00e\x00t\x00o\x00n)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/auralius/works/itenas/openmp-kdevelop-skeleton/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=openmp
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Debugger Shell=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x000\x00o\x00p\x00e\x00n\x00m\x00p\x00-\x00k\x00d\x00e\x00v\x00e\x00l\x00o\x00p\x00-\x00s\x00k\x00e\x00l\x00e\x00t\x00o\x00n\x00\x00\x00\x0c\x00o\x00p\x00e\x00n\x00m\x00p)
+Dependency Action=Build
+Display Demangle Names=true
+Display Static Members=false
+GDB Path=
+Project Target=openmp-kdevelop-skeleton,openmp
+Remote GDB Config Script=
+Remote GDB Run Script=
+Remote GDB Shell Script=
+Start With=ApplicationOutput
+
+[Project]
+VersionControlSupport=kdevgit
